@@ -1,35 +1,55 @@
 # 🌪️ Branch of Madness
 
-> A repository with absolutely no purpose, except one: forcing me to actually learn Git.
+> Learning Git by writing a story with parallel timelines and time travel.
 
 ## What is this?
 
-It's not a project. It has no useful code. It has no noble goal.
+It's not a project. There is no code here, only a story.
 
-It's a lab for controlled chaos, where anything involving Git is allowed — and encouraged — as long as it teaches me something real about what's actually happening under the commands I used to just memorize without understanding.
+The repository is a universe. Every commit is a moment in its history, and every branch is a parallel timeline where something happened differently. What if the meteor had missed the dinosaurs? Make a branch and find out.
 
-Here I'm going to:
+The goal is to learn what Git is actually doing under the commands I used to memorize without understanding, using a story instead of code so the history is easy to picture.
 
-- Create branches that make no sense
-- Generate merge conflicts just to resolve them by hand
+## How Git maps to the story
+
+| Git | In the story |
+|---|---|
+| Commit | A moment frozen in history |
+| `main` | The original timeline |
+| Branch | A parallel timeline that splits off at some moment |
+| `git switch` | Jumping between timelines |
+| `git checkout <commit>` | Traveling back in time to look around |
+| Merge | Two timelines colliding into one |
+| Merge conflict | Two realities disagree about what happened, and you decide which one wins |
+| `git reset` | Rewinding time |
+| `git revert` | Undoing an event by adding a new event that cancels it |
+| `git rebase -i` | Rewriting history itself |
+| `git cherry-pick` | Stealing one event from another timeline |
+| `git reflog` | The time traveler's diary: it remembers timelines everyone else forgot |
+
+## The plan
+
+The challenges get harder as the story grows:
+
+- Split the timeline: what if the meteor missed?
+- Collide two timelines and resolve the conflict by hand
+- Rewind with `reset` (soft, mixed, hard) and feel the difference
+- Erase a timeline, then bring it back with `reflog`
+- `cherry-pick` an event from one reality into another
 - Rewrite history with `rebase -i`
-- Run `reset` (soft, mixed, hard) just to see the difference
-- Delete a branch and chase it down with `reflog`
-- `cherry-pick` random commits
 - Force push where nobody's around to complain
-- Simulate disasters and learn how to get out of them
+- Cause temporal disasters and learn how to get out of them
 
-## Rules of the mess
+## Rules of the multiverse
 
-1. It doesn't have to make sense.
-2. It doesn't have to work.
-3. It has to teach something about Git.
-4. If it breaks, even better — that's where the learning happens.
+1. The story doesn't have to make sense.
+2. Every chapter has to teach something about Git.
+3. If a timeline breaks, even better — that's where the learning happens.
 
 ## Why?
 
-Because studying data engineering made me dependent on Git in day-to-day work, but never forced me to actually *understand* it. So I decided to create a consequence-free space to break everything until it clicks.
+Because studying data engineering made me dependent on Git in day-to-day work, but never forced me to actually *understand* it. So I decided to create a consequence-free universe to break everything until it clicks.
 
 ---
 
-*All code, all lines, and everything else were hammered into submission during the making of this repository.*
+*No dinosaurs were permanently harmed in the making of this repository. Probably. Check the reflog.*
