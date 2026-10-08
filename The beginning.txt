@@ -1,1 +1,11 @@
 Hello, this is the beginning of everything. The first timeline of our git starts here: ground zero, the prehistoric era.
+
+The world is hot, green, and loud. Ferns taller than houses cover the valleys, and volcanoes cough smoke into a sky that has never seen an airplane.
+
+The dinosaurs rule it all. Brachiosaurs stretch their necks into the treetops, triceratops herds graze along the riverbanks, and somewhere in the jungle a Tyrannosaurus rex is having a very bad day (for everyone else).
+
+Tiny furry mammals hide in burrows, waiting. Nobody pays them any attention.
+
+For 165 million years, nothing really changes. Every day looks like the last one. It is, in a way, the longest-running main branch in history.
+
+Then, one night, a new light appears in the sky. It gets a little brighter every night.
