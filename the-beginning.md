@@ -1,3 +1,5 @@
+# The Beginning
+
 Hello, this is the beginning of everything. The first timeline of our git starts here: ground zero, the prehistoric era.
 
 The world is hot, green, and loud. Ferns taller than houses cover the valleys, and volcanoes cough smoke into a sky that has never seen an airplane.
